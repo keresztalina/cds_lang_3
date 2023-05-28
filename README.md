@@ -38,7 +38,6 @@ Secondly, the script loops through the number of next words to be generated. The
 Finally, the generated sequence of words is printed. 
 
 ## Usage
-## Usage
 ### Prerequisites
 This code was written and executed in the UCloud application's Coder Python interface (version 1.77.3, running Python version 3.9.2). UCloud provides virtual machines with a Linux-based operating system, therefore, the code has been optimized for Linux and may need adjustment for Windows and Mac.
 
